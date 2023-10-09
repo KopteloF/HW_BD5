@@ -1,0 +1,54 @@
+[
+    {
+        "email": "laihoalex@mail.ru",
+        "name": "Alex",
+        "phone": [
+            921456786
+        ],
+        "surname": "Laiho"
+    },
+    {
+        "email": "romankoptelov@mail.ru",
+        "name": "Roman",
+        "phone": [
+            987654123
+        ],
+        "surname": "Koptelov"
+    },
+    {
+        "email": "andreiizmailov@mail.ru",
+        "name": "Andrei",
+        "phone": [
+            984321456
+        ],
+        "surname": "Izmailov"
+    },
+    {
+        "email": "natashaandreeva@mail.ru",
+        "name": "Natalia",
+        "phone": [
+            921321654
+        ],
+        "surname": "Andreeva"
+    },
+    {
+        "email": "pitergriffin@mail.ru",
+        "name": "Piter",
+        "phone": [],
+        "surname": "Griffin"
+    },
+    {
+        "email": "gomersimpson@mail.ru",
+        "name": "Gomer",
+        "phone": [],
+        "surname": "Simpson"
+    },
+        {
+        "email": "sheldoncooper@mail.ru",
+        "name": "Sheldon",
+        "phone": [
+            921456354
+        ],
+        "surname": "Cooper"
+    }
+]
